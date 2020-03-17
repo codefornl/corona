@@ -33,6 +33,12 @@ We kunnen alle hulp goed gebruiken. We denken aan:
 * __Marketeers__, voor het beter verspreiden van de genoemde initiatieven. 
 * __Informatiegeeks en bibliothecarissen__, om te helpen bij het overzicht van Nederlandse (burger)initiatieven rondom Corona. 
 * __UX experts en grafisch ontwerpers__, voor het ontwerpen van apps en tools, zodra die ontwikkeld worden of geschikt gemaakt worden voor de Nederlandse situatie. 
-Iedereen die verder wil helpen. 
+Iedereen die verder wil helpen.
+
+# Wat hebben we in beeld?
+
+* [Poolse initiatieven](polen.html)
+* [Roemeense initiatieven](roemenie.html)
+* [Nederlandse initiatieven](nederland.html)
 
 Sluit je aan bij onze Slack groep, kanaal #Corona via [praatmee.codefor.nl](https://praatmee.codefor.nl) 
