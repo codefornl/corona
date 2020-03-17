@@ -37,8 +37,8 @@ Iedereen die verder wil helpen.
 
 # Wat hebben we in beeld?
 
-* [Poolse initiatieven](polen.md)
-* [Roemeense initiatieven](roemenie.md)
-* [Nederlandse initiatieven](nederland.md)
+* [Poolse initiatieven](Polen.md)
+* [Roemeense initiatieven](Roemenie.md)
+* [Nederlandse initiatieven](Nederland.md)
 
 Sluit je aan bij onze Slack groep, kanaal #Corona via [praatmee.codefor.nl](https://praatmee.codefor.nl) 
