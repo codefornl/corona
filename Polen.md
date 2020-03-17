@@ -10,8 +10,8 @@ Apps die in Polen worden gemaakt door onze partners van KodujdlaPolski:
 
 | Naam | Omschrijving | Link |
 | --- | --- | --- |
-| Kwarantanna | Het lijkt er op dat dit een app wordt waarin mensen "online vermaak" kunnen delen en aan elkaar kunnen vertellen wat ze doen om de quarantaine door te komen. De app is in ontwikkeling, er zijn wel al een paar mooie schetsen |  https://scene.zeplin.io/project/5e6fdda17673a013025d8b05
-| pomoc-sąsiedzka (Buurthulp) | Een applicatie waarmee mensen kunnen aangeven dat ze elkaar willen helpen en waarmee, prototype online | https://app.ihelpyou.app/home
+| Kwarantanna | Het lijkt er op dat dit een app wordt waarin mensen "online vermaak" kunnen delen en aan elkaar kunnen vertellen wat ze doen om de quarantaine door te komen. De app is in ontwikkeling, er zijn wel al een paar mooie schetsen |  [https://scene.zeplin.io/project/5e6fdda17673a013025d8b05](https://scene.zeplin.io/project/5e6fdda17673a013025d8b05)
+| pomoc-sąsiedzka (Buurthulp) | Een applicatie waarmee mensen kunnen aangeven dat ze elkaar willen helpen en waarmee, prototype online | [https://app.ihelpyou.app/home](https://app.ihelpyou.app/home)
 
 
 Overgenomen vanaf de lijst die op dit moment in Polen gebruikt wordt in een hackathon. ([bron](https://docs.google.com/spreadsheets/d/13O3dfyvI2fd7xnFRjH3VIA1PDk36DLkdaHkoEAxFLJE/edit#gid=1337885469))
