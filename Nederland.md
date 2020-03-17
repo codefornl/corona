@@ -1,3 +1,11 @@
+---
+layout: default
+title: Help mee tegen corona
+tagline: Help mee tegen corona
+lang: nl
+permalink: nederland.html
+---
+
 In Nederland zijn we vanuit [Code for NL](https://www.codefor.nl) bezig met een aantal dingen:
 
 | Naam | Doel | Oplossing | Live | Repo | Status
