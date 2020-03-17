@@ -3,6 +3,7 @@ layout: default
 title: Help mee tegen corona
 tagline: Help mee tegen corona
 lang: nl
+permalink: /corona/
 ---
 # Developers en designers: Help mee tegen corona! 
 Code for NL het Nederlandse netwerk van developers en designers die samenwerken aan
