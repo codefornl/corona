@@ -1,3 +1,11 @@
+---
+layout: default
+title: Help mee tegen corona
+tagline: Help mee tegen corona
+lang: nl
+permalink: polen.html
+---
+
 Apps die in Polen worden gemaakt door onze partners van KodujdlaPolski:
 
 | Naam | Omschrijving | Link |
