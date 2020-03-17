@@ -1,3 +1,11 @@
+---
+layout: default
+title: Help mee tegen corona
+tagline: Help mee tegen corona
+lang: nl
+permalink: polen.html
+---
+
 In Roemenie wordt op dit moment door [Code for Romania](https://code4.ro/ro/apps/) gewerkt aan apps voor een 6-tal thema's. De verwachting is dat deze apps vandaag of morgen openbaar zullen worden gemaakt.
 
 | Naam | Vertaling | Doel | Oplossing | Link |
