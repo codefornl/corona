@@ -5,41 +5,37 @@ tagline: Help mee tegen corona
 lang: nl
 permalink: index.html
 ---
-# Help mee tegen corona!
-Code for NL is het Nederlandse netwerk van developers en designers die samenwerken aan
-een open en eerlijke digitale overheid en samenleving. Vanwege de Coronacrisis zijn we
-daar op dit moment met meer dan 100 mensen volledig op gefocust. Meedoen? Kom naar ons open Slack kanaal via <a href="https://meedoen.codefor.nl">meedoen.codefor.nl</a>.
+# Help mee tegen Corona!
+Vanwege de Coronacrisis zijn we op dit moment met meer dan 100 mensen volledig op gefocust op initiatieven. Meedoen? Meld je in ons open Slack kanaal via <a href="https://meedoen.codefor.nl">meedoen.codefor.nl</a> en kom naar het themakanaal #corona.
 
-# Help mee
-Sluit je aan bij onze Slack groep, kanaal #Corona via [praatmee.codefor.nl](https://praatmee.codefor.nl) 
-Dit zijn momenteel de belangrijkste activiteiten van mensen in ons netwerk:
-* Vertaling van [StayTheFuckHome.com](https://staythefuckhome.com/nl/) in het Nederlands. 
-* Auto-tweets rondom corona initiatieven via [@codefornl](https://twitter.com/codefornl)
-* Nederlandse initiatieven stimuleren om meer samen te werken, ook via ons [Slack kanaal](http://praatmee.codefor.nl). 
-* Bijwerken en promoten van [coronavirustechhandbook.com](https://drive.google.com/open?id=1vmoWY2Lbr7yfFklfIdgEaphfvFSGFbD1uXTA9OweKbg).
-* Doorontwikkelen van een Nederlandse [Coronakaart](https://www.codefor.nl/coronamap-nl/). 
-* Contact leggen met internationale initiatieven, waaronder het [Code for All](https://codeforall.org/) netwerk (een overkoepelend netwerk van organisaties vergelijkbaar met Code for NL). 
-* Het geschikt maken van buitenlandse civic tech initiatieven voor de Nederlandse situatie. 
-* Overzicht maken van Nederlandse initiatieven.
+# Waar zijn we allemaal mee bezig
+* Verschillende Nederlandse initiatieven bij elkaar brengen en samenwerking promoten, coördineren, en ondersteunen
+* Contact onderhouden met initiatieven uit ons internationale netwerk, waaronder de 30+ [Code for All](https://codeforall.org/) partnerorganisaties
+* Geschikt maken van civic tech oplossingen uit ons internationale netwerk voor gebruik in Nederland
+* Bijwerken en promoten van (coronavirustechhandbook.com) als primaire plaats voor compleet internationaal overzicht van civic tech corona initiatieven
+* Bijwerken en promoten van (coronavirustechhandbook.com/nl) als primaire plaats voor compleet nationaal overzicht van civic tech corona initiatieven
+* Inrichten van (collecties.codefor.nl) collecties met auto-tweets om onze corona initiatieven te promoten via [@codefornl](https://twitter.com/codefornl)
+* Vertalen van (StayTheFuckHome.com/nl) en andere informatiesites naar het Nederlands
+* Gezamenlijk verzamelen en geschikt maken van databronnen
+* Gezamenlijk ontwikkelen van diverse Nederlandse [Coronakaarten](https://www.codefor.nl/coronamap-nl/)
 
-… en meer initiatieven volgen ongetwijfeld.
-
-Als Code for NL zullen we niet alle projecten zelf oppakken. We willen vooral bestaande initiatieven faciliteren. 
-
-# Wie zoeken we?
-We kunnen alle hulp goed gebruiken. We denken aan: 
-* __Ontwikkelaars__, voor het meehelpen aan projecten als de Nederlandse Coronakaart. Werk mee via Github. 
+# Alle hulp is welkom!
+We kunnen alle hulp goed gebruiken. Denk aan:
+* __Ontwikkelaars__, voor het meehelpen aan projecten als de Nederlandse Coronakaart. Werk mee via Github
 * __Data scientists__ en __GIS specialisten__, voor het collaboratief verzamelen van visualisaties zoals dit voorbeeld.
-* __Community managers__, voor het welkom heten en activeren van nieuwe leden op Slack. 
+* __Community managers__, voor het welkom heten en activeren van nieuwe leden op Slack
 * __Marketeers__, voor het beter verspreiden van de genoemde initiatieven. 
 * __Informatiegeeks en bibliothecarissen__, om te helpen bij het overzicht van Nederlandse (burger)initiatieven rondom Corona. 
-* __UX experts en grafisch ontwerpers__, voor het ontwerpen van apps en tools, zodra die ontwikkeld worden of geschikt gemaakt worden voor de Nederlandse situatie. 
-Iedereen die verder wil helpen.
+* __UX experts en grafisch ontwerpers__, voor het ontwerpen van apps en tools, zodra die ontwikkeld worden of geschikt gemaakt worden voor de Nederlandse situatie.
 
-# Wat hebben we in beeld?
+Niet in de laatste plaats hebben we __kartrekkers__ nodig, mensen die een project uit de grond stampen, anderen gemotiveerd maken en houden, en doen wat er moet gebeuren om het tot een succes te maken.
+
+# Ideeën? Wil je helpen?
+
+Meld je in ons open Slack kanaal via <a href="https://meedoen.codefor.nl">meedoen.codefor.nl</a> en kom naar het themakanaal #corona.
+
+# Wat hebben we in beeld (TO-DO: verplaatsen naar overzicht)
 
 * [Poolse initiatieven](Polen.md)
 * [Roemeense initiatieven](Roemenie.md)
 * [Nederlandse initiatieven](Nederland.md)
-
-Sluit je aan bij onze Slack groep, kanaal #Corona via [praatmee.codefor.nl](https://praatmee.codefor.nl) 
