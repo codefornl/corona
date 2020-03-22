@@ -6,7 +6,7 @@ lang: nl
 permalink: index.html
 ---
 # Help mee tegen Corona!
-Vanwege de Coronacrisis zijn we op dit moment met meer dan 100 mensen volledig op gefocust op initiatieven. Meedoen? Meld je in ons open Slack kanaal via <a href="https://meedoen.codefor.nl">meedoen.codefor.nl</a> en kom naar het themakanaal #corona.
+Vanwege de Coronacrisis zijn we op dit moment met meer dan 100 mensen volledig op gefocust op initiatieven. Meedoen? Meld je in ons open Slack kanaal via <a href="https://doemee.codefor.nl">doemee.codefor.nl</a> en kom naar het themakanaal #corona.
 
 # Waar zijn we allemaal mee bezig
 * Verschillende Nederlandse initiatieven bij elkaar brengen en samenwerking promoten, coördineren, en ondersteunen
@@ -32,7 +32,7 @@ Niet in de laatste plaats hebben we __Kartrekkers__ nodig, mensen die een projec
 
 # Ideeën? Wil je helpen?
 
-Meld je in ons open Slack kanaal via <a href="https://meedoen.codefor.nl">meedoen.codefor.nl</a> en kom naar het themakanaal #corona.
+Meld je in ons open Slack kanaal via <a href="https://doemee.codefor.nl">doemee.codefor.nl</a> en kom naar het themakanaal #corona.
 
 # Wat hebben we in beeld
 
