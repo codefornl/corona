@@ -5,9 +5,10 @@ tagline: Help mee tegen corona
 lang: nl
 permalink: index.html
 ---
-# Developers en designers: Help mee tegen corona! 
-Code for NL het Nederlandse netwerk van developers en designers die samenwerken aan
-een open en eerlijke digitale overheid en samenleving. 
+# Help mee tegen corona!
+Code for NL is het Nederlandse netwerk van developers en designers die samenwerken aan
+een open en eerlijke digitale overheid en samenleving. Vanwege de Coronacrisis zijn we
+daar op dit moment met meer dan 100 mensen volledig op gefocust. Meedoen? Kom naar ons open Slack kanaal via <a href="https://meedoen.codefor.nl">meedoen.codefor.nl</a>.
 
 # Help mee
 Sluit je aan bij onze Slack groep, kanaal #Corona via [praatmee.codefor.nl](https://praatmee.codefor.nl) 
