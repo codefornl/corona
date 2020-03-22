@@ -34,7 +34,7 @@ Niet in de laatste plaats hebben we __Kartrekkers__ nodig, mensen die een projec
 
 Meld je in ons open Slack kanaal via <a href="https://meedoen.codefor.nl">meedoen.codefor.nl</a> en kom naar het themakanaal #corona.
 
-# Wat hebben we in beeld (TO-DO: verplaatsen naar overzicht)
+# Wat hebben we in beeld
 
 * [Poolse initiatieven](Polen.md)
 * [Roemeense initiatieven](Roemenie.md)
