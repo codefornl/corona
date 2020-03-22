@@ -12,12 +12,9 @@ Vanwege de Coronacrisis zijn we op dit moment met meer dan 100 mensen volledig o
 * Verschillende Nederlandse initiatieven bij elkaar brengen en samenwerking promoten, coördineren, en ondersteunen
 * Contact onderhouden met initiatieven uit ons internationale netwerk, waaronder de 30+ [Code for All](https://codeforall.org/) partnerorganisaties
 * Geschikt maken van civic tech oplossingen uit ons internationale netwerk voor gebruik in Nederland
-* Bijwerken en promoten van [coronavirustechhandbook.com](https://coronavirustechhandbook.com) als primaire plaats voor compleet internationaal overzicht van civic tech corona initiatieven
-* Bijwerken en promoten van [coronavirustechhandbook.com/nl](https://coronavirustechhandbook.com/nl) als primaire plaats voor compleet nationaal overzicht van civic tech corona initiatieven
-* Inrichten van [collecties.codefor.nl](https://collecties.codefor.nl) collecties met auto-tweets om onze corona initiatieven te promoten via [@CodeForNL op Twitter](https://twitter.com/codefornl)
-* Vertalen van [StayTheFuckHome.com](https://www.StayTheFuckHome.com/nl/) en andere informatiesites naar het Nederlands
 * Gezamenlijk verzamelen en geschikt maken van databronnen
-* Gezamenlijk ontwikkelen van diverse Nederlandse [Coronakaarten](https://www.codefor.nl/coronamap-nl/)
+
+Kijk voor het overzicht van alle Code for NL Corona initiatieven op [collecties.codefor.nl](https://collecties.codefor.nl/cbase/corona-initiatieven-7f1b1d68b2b0a8c621f114e190c98869)
 
 # Alle hulp is welkom!
 We kunnen alle hulp goed gebruiken. Denk aan:
