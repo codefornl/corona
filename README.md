@@ -31,8 +31,7 @@ Niet in de laatste plaats hebben we __Kartrekkers__ nodig, mensen die een projec
 
 Meld je in ons open Slack kanaal via [doemee.codefor.nl](https://doemee.codefor.nl) en kom naar het themakanaal #corona.
 
-# Wat hebben we in beeld
+# (Tijdelijke) overzichten van Code for All apps
 
 * [Poolse initiatieven](Polen.md)
 * [Roemeense initiatieven](Roemenie.md)
-* [Nederlandse initiatieven](Nederland.md)
