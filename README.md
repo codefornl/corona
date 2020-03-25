@@ -35,3 +35,4 @@ Meld je in ons open Slack kanaal via [doemee.codefor.nl](https://doemee.codefor.
 
 * [Poolse initiatieven](Polen.md)
 * [Roemeense initiatieven](Roemenie.md)
+* [Duitse initiatieven](https://codefor.de/projekte/)
